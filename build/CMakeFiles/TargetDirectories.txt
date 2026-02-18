@@ -1,0 +1,3 @@
+C:/Users/Wiktor/Desktop/JMP/Arkanoid/build/CMakeFiles/Arkanoid.dir
+C:/Users/Wiktor/Desktop/JMP/Arkanoid/build/CMakeFiles/edit_cache.dir
+C:/Users/Wiktor/Desktop/JMP/Arkanoid/build/CMakeFiles/rebuild_cache.dir
