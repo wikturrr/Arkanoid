@@ -280,6 +280,6 @@ CMakeFiles/Arkanoid.dir/src/Ball.cpp.obj: \
  C:/SFML/include/SFML/System/InputStream.hpp \
  C:/SFML/include/SFML/System/MemoryInputStream.hpp \
  C:/SFML/include/SFML/System/Sleep.hpp \
- C:/Users/Wiktor/Desktop/JMP/Arkanoid/include/Player.h \
  C:/mingw64/include/c++/14.2.0/iostream \
+ C:/Users/Wiktor/Desktop/JMP/Arkanoid/include/Player.h \
  C:/Users/Wiktor/Desktop/JMP/Arkanoid/include/Brick.h

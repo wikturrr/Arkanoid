@@ -11,7 +11,6 @@ public:
     Game();
     void run();
    
-
 private:
     unsigned int windowWidth = 600;
     unsigned int windowHeight = 800;
@@ -19,6 +18,9 @@ private:
     float PlaygroundHeight = 700;
     sf::RenderWindow window;
     sf::RectangleShape playground;
+    sf::Font font;
+    sf::Text score;
+    sf::Text lifes;
 };
 
 #endif

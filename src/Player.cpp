@@ -3,7 +3,7 @@
 Player::Player(){
     player.setSize({playerWidth, playerHeight});
     player.setPosition({250.f, 700.f});
-    player.setFillColor(sf::Color::Blue);
+    player.setFillColor({167, 167, 167});
     player.setOutlineThickness({3.f});
     player.setOutlineColor(sf::Color::Black);
 }

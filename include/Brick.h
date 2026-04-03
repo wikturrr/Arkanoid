@@ -11,6 +11,11 @@ public:
     float GetHeight();
     sf::FloatRect GetBody();
     void Destroy();
+    sf::Rect<float> getUpperVerticalBounds();
+    sf::Rect<float> getLowerVerticalBounds();
+    sf::Rect<float> getRightHorizontalBounds();
+    sf::Rect<float> getLeftHorizontalBounds();
+
 
 private:
     float brickWidth = 50.f;

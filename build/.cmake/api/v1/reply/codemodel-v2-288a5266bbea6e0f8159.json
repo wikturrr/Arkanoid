@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Arkanoid::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Arkanoid-Debug-161e588ee46cb3e5f221.json",
+					"jsonFile" : "target-Arkanoid-Debug-2a5dc23648a27d06baac.json",
 					"name" : "Arkanoid",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 8
 	}
 }
